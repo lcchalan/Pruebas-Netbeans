@@ -16,6 +16,8 @@ public class ExampleJena {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //Imprimir mensaje
         System.out.println("Con Dios Todo sin el nada...");
     }
     
